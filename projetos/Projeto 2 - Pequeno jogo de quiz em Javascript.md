@@ -6,8 +6,6 @@
 
 Neste projeto você criará um simples jogo de Quiz com HTML, CSS e agora Javascript para trazer inteligência e vida para suas aplicações! 
 
-![](https://miro.medium.com/max/650/1*calpimHkJBYyCw9Tz178qw.jpeg)  
-
 O objetivo do jogo é o usuário responder perguntas múltipla escolha e ganhar pontos quando acertar. Para isso, o jogo deve conter:
 
 *   Página inicial dando boas vindas aos usuários;
