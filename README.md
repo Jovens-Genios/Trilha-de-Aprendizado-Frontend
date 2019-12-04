@@ -19,6 +19,11 @@ Ao fim deste curso, você dominará os fundamentos do Front-End web, além de su
 
 O curso é baseado em projetos, você terá 2 projetos com crescente grau de dificuldade para destruir durante a sua jornada. Prepare-se para sujar bastante as mãos na massa para dominar o **Front-End Raiz**!
 
+## Como acessar os projetos
+
+Os projetos estão dentro da pasta /projetos neste repositório. Lembre-se de criar e publicar os seus projetos bem documentados no seu Github!
+
+
 Materiais sobre fundamentos do desenvolvimento web:
 
 *   Como a Web funciona. Excelente artigo da Mozilla, explicando a lógica da Web, de uma forma bem didática. [https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Como_a_Web_funciona](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/Como_a_Web_funciona)
