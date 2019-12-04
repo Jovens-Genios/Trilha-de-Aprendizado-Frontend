@@ -2,7 +2,9 @@
 
 **Objetivo**: Recriar um design perfeito de pixel e resolver problemas de design responsivo.
 
-![projeto 1](imagens/projeto1.jpg?raw=true)  
+<center>
+![projeto 1](../imagens/projeto1.jpg?raw=true)  
+</center>
 
 Neste primeiro projeto você desenvolverá seus primeiros superpoderes no mundo web. Sua missão é desenvolver uma única página web responsiva (o conteúdo se adapta a telas de todos os tamanhos), utilizando apenas HTML e CSS.
 

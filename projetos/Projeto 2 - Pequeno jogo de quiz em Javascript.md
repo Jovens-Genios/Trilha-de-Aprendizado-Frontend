@@ -2,7 +2,9 @@
 
 **Objetivo**: Criar um jogo de perguntas JavaScript que receba várias respostas e mostra um resultado para o usuário.
 
-![projeto 2](imagens/projeto2.jpeg?raw=true)  
+<center>
+![projeto 2](../imagens/projeto2.jpeg?raw=true)  
+</center>
 
 Neste projeto você criará um simples jogo de Quiz com HTML, CSS e agora Javascript para trazer inteligência e vida para suas aplicações! 
 
